@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "/architectui/",
+            "baseHref": "/architectui-ems/",
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
